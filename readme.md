@@ -32,7 +32,7 @@ numpy>=1.20.0
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/finbert-sentiment-analysis.git
+git clone https://github.com/NilayRaut/Fine-Tuning-FinBERT-for-Financial-Sentiment-Analysis.git
 cd finbert-sentiment-analysis
 ```
 
