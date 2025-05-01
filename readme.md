@@ -135,6 +135,10 @@ demo.launch()
 - Extend to multi-class classification (beyond just positive/neutral/negative)
 - Implement domain adaptation techniques for specific financial sub-domains
 
+## A little demonstration explanation 
+- https://youtu.be/wq446tT8xhU
+- https://youtu.be/g6XFuzJqIqQ
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
