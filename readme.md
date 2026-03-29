@@ -12,6 +12,16 @@ Financial sentiment analysis is crucial for various applications in finance, inc
 4. Evaluate model performance
 5. Deploy the model for inference
 
+## Results
+
+| Metric | Value |
+|--------|-------|
+| Final accuracy | **97.4%** |
+| Improvement over pre-trained baseline | **7.5×** |
+| Dataset | Financial PhraseBank (3-class) |
+| Classes | Positive · Neutral · Negative |
+| Tuning method | Grid search + early stopping |
+
 ## Dataset
 
 The project uses the Financial PhraseBank dataset, which contains financial news sentences labeled with sentiment (positive, neutral, negative). The data is automatically downloaded from Hugging Face's datasets library.
